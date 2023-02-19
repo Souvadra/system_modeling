@@ -1,1 +1,1 @@
-# system_modeling_project
+# Optimal micro-architecture and system architecture for genomics 
