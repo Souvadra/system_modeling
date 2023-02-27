@@ -1,1 +1,1 @@
-# Optimal micro-architecture and system architecture for genomics 
+# Optimal architecture for graph algorithms 
